@@ -1,22 +1,36 @@
 @import url("https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css");
 @import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
 
-body{
-  font-family: 'Lato', sans-serif;
+body {
+	font-family: "Lato", sans-serif;
 }
 
-.cursive{
-  font-family: "lato", cursive;
-  font-weight: 700;
+.cursive {
+	font-family: "lato", cursive;
+	font-weight: 700;
 }
 
 .prose img {
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
 }
 
-.home-name{
-  font-size: 150px;
+.home-name {
+	font-size: 150px;
+}
+
+/* possible colors - tailwind similar match */
+.custom-blue {
+	color: #0f206b;
+	/* blue 900 */
+}
+.custom-yellow {
+	color: #eaad66;
+	/* yellow 300 */
+}
+.custom-light-blue {
+	color: #8199a8;
+	/* blue 200 */
 }

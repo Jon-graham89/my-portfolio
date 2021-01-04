@@ -44,13 +44,7 @@ const NavBar = () => (
 					fgColor="#fff"
 					style={{ height: 35, width: 35 }}
 				/>
-				<SocialIcon
-					url="https://www.instagram.com/"
-					className="mr-4"
-					target="_blank"
-					fgColor="#fff"
-					style={{ height: 35, width: 35 }}
-				/>
+
 				<SocialIcon
 					url="https://www.linkedin.com/in/jonathan-graham-83375193/"
 					className="mr-4"

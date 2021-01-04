@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import sanityClient from "../client";
 import BlockContent from "@sanity/block-content-to-react";
 import imageUrlBuilder from "@sanity/image-url";
-import aries from "../aries-website.jpeg";
 
 const About = () => {
 	const builder = imageUrlBuilder(sanityClient);

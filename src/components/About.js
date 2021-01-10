@@ -44,6 +44,13 @@ const About = () => {
 								projectId="2igg19x2"
 								dataset="production"
 							/>
+							<p>
+								Adaptable Software Developer that recently started coding as a
+								hobby and became passionate about building front-end web
+								applications. Motivated to learn, be exposed to new problems and
+								thrive in a position that "wears many hats". Integral team
+								player with strong communication and problem solving skills.
+							</p>
 						</div>
 					</div>
 				</section>

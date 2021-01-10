@@ -14,13 +14,13 @@ const NavBar = () => (
 				>
 					Jonathan
 				</NavLink>
-				<NavLink
+				{/* <NavLink
 					to="/post"
 					activeClassName="text-red-100 bg-yellow-500"
 					className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-900 hover:text-blue-200"
 				>
 					Blog Posts
-				</NavLink>
+				</NavLink> */}
 				<NavLink
 					to="/projects"
 					activeClassName="text-red-100 bg-yellow-500"
